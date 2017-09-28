@@ -13,8 +13,8 @@ Bouteiller, X.P., Porté, A.J., Mariette, S., Monty, A., 2017. Using automated s
 Here I provide a R/JAGS fitting a Gompertz Function. Gompertz function is frequently used for fitting sigmoid curves as for germination rate.
 
 This repository contains:
-- Code of the model: **Model_Gompertz**
-- A sample data set **SampleDataset.txt**
+- Code of the model: **ModelGompertz**
+- A sample data set: **SampleDataset.txt**
 
 #### Description of the original experimental design:
 
@@ -26,11 +26,11 @@ Gompertz used are frequently used for modelling Biological process as germinatio
 
 We used Gompertz function to modelize germination data. We constructed a germination curve of the fraction of germinated seeds G(t). The model was fitted using a Bayesian procedure. 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=G(t)=&space;D&space;e&space;^{&space;-e^{-b&space;(t&space;-&space;t_{m})}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?G(t)=&space;D&space;e&space;^{&space;-e^{-b&space;(t&space;-&space;t_{m})}}" title="G(t)= D e ^{ -e^{-b (t - t_{m})}}" /></a>
+<img src="https://latex.codecogs.com/gif.latex?G(t)=&space;D&space;e&space;^{&space;-e^{-b&space;(t&space;-&space;t_{m})}}" title="G(t)= D e ^{ -e^{-b (t - t_{m})}}" />
 
 where parameter D is the maximum germination rate, b is the slope of the germination curve and tm is the time at the inflexion point.
 
-### References :
+### References:
 
 Ritz, C., Pipper, C.B. and Streibig, J.C. (2013) Analysis of germination data from agricultural experiments. European Journal of Agronomy 45, 1–6.
 
