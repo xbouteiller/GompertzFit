@@ -24,11 +24,11 @@ Gompertz used are frequently used for modelling Biological process as germinatio
 
 #### Model:
 
-We used Gompertz function to modelize germination data. We constructed a germination curve of the fraction of germinated seeds G(t). The model was fitted using a Bayesian procedure. 
+We used Gompertz function to modelize germination data. We constructed a germination curve of the fraction of germinated seeds _G(t)_ as a function of time _t_ (days after sowing). The model was fitted using a Bayesian procedure. 
 
 <img src="https://latex.codecogs.com/gif.latex?G(t)=&space;D&space;e&space;^{&space;-e^{-b&space;(t&space;-&space;t_{m})}}" title="G(t)= D e ^{ -e^{-b (t - t_{m})}}" />
 
-where parameter D is the maximum germination rate, b is the slope of the germination curve and tm is the time at the inflexion point.
+where parameter _D_ is the maximum germination rate, _b_ is the slope of the germination curve and <img src="https://latex.codecogs.com/gif.latex?t_{m}" title="t_{m}" /> is the time at the inflexion point.
 
 ### References:
 
