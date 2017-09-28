@@ -1,0 +1,22 @@
+model{
+
+#Likelihood
+for(i in 1:NDAY)  
+{
+
+G[i]<- D  * exp( -exp(-b*(t[i] - tm)))
+Y[i]~dnorm(G[i], LAMBDA1)
+
+}
+
+#Priors
+LAMBDA1~dgamma(0.0001,0.0001) #uninformative gamma prior
+ 
+D~dbeta(1, 1)
+
+b~dnorm(0, LAMBDA2)
+LAMBDA2~dgamma(0.0001,0.0001) #uninformative gamma prior
+
+tm~dnorm(0, LAMBDA3)
+LAMBDA3~dgamma(0.0001,0.0001) #uninformative gamma prior
+}
