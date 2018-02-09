@@ -35,3 +35,9 @@ where parameter _D_ is the maximum germination rate, _b_ is the slope of the ger
 Ritz, C., Pipper, C.B. and Streibig, J.C. (2013) Analysis of germination data from agricultural experiments. European Journal of Agronomy 45, 1–6.
 
 Torres, M. and Frutos, G. (1989) Analysis of germination curves of aged fennel seeds by mathematical models. Environmental and Experimental Botany 29, 409–415.
+
+#### Publication:
+
+If you are using this Bayesian Mixed Model, please cite:
+
+>Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. Plant Ecology and Evolution.
