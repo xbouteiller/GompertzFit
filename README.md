@@ -5,8 +5,7 @@
 
 Please contact Xavier Bouteiller at xavier.bouteiller(at)u-bordeaux(dot)fr with bug reports or questions. 
 
-For more details, you can read :
-Bouteiller, X.P., Porté, A.J., Mariette, S., Monty, A., 2017. Using automated sanding to homogeneously break seed dormancy in black locust (Robinia pseudoacacia L., Fabaceae). Seed Science Research. https://doi.org/10.1017/S0960258517000150
+For more details, you can read [this paper](https://www.cambridge.org/core/journals/seed-science-research/article/using-automated-sanding-to-homogeneously-break-seed-dormancy-in-black-locust-robinia-pseudoacacia-l-fabaceae/811101B9C7853FC8EC628BAB0A3E1EE4)
 
 #### Readme:
 
@@ -41,3 +40,5 @@ Torres, M. and Frutos, G. (1989) Analysis of germination curves of aged fennel s
 If you are using this Bayesian Mixed Model, please cite:
 
 >Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. Plant Ecology and Evolution.
+
+>Bouteiller XP, Porté AJ, Mariette S, Monty A (2017). Using automated sanding to homogeneously break seed dormancy in black locust (*Robinia pseudoacacia* L., Fabaceae). Seed Science Research. https://doi.org/10.1017/S096025851700015
