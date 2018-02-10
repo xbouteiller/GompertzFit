@@ -37,7 +37,7 @@ Torres, M. and Frutos, G. (1989) Analysis of germination curves of aged fennel s
 
 #### Publication:
 
-If you are using this Bayesian Mixed Model, please cite:
+If you are using this code for fitting sigmoid funtions, please cite:
 
 >Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. Plant Ecology and Evolution.
 
