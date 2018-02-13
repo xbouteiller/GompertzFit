@@ -41,4 +41,4 @@ If you are using this code for fitting sigmoid funtions, please cite:
 
 >Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. Plant Ecology and Evolution.
 
->Bouteiller XP, Porté AJ, Mariette S, Monty A (2017). Using automated sanding to homogeneously break seed dormancy in black locust (*Robinia pseudoacacia* L., Fabaceae). Seed Science Research. https://doi.org/10.1017/S096025851700015
+>Bouteiller XP, Porté AJ, Mariette S, Monty A (2017). Using automated sanding to homogeneously break seed dormancy in black locust (*Robinia pseudoacacia* L., Fabaceae). Seed Science Research. https://doi.org/10.1017/S09602585170001505
