@@ -39,6 +39,6 @@ Torres, M. and Frutos, G. (1989) Analysis of germination curves of aged fennel s
 
 If you are using this code for fitting sigmoid funtions, please cite:
 
->Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. Plant Ecology and Evolution.
+>Bouteiller XP, Barraquand F, Garnier-Géré P, Harmand N, Laizet Y, Raimbault A, Segura R, Lassois L, Monty A, Verdu C, Mariette S & Porté AJ (2018) No evidence for genetic differentiation in juvenile traits between Belgian and French populations of the invasive tree *Robinia pseudoacacia*. *Plant, Ecology and Evolution*, 151(1), 5–17. https://doi.org/10.5091/plecevo.2018.1403
 
 >Bouteiller XP, Porté AJ, Mariette S, Monty A (2017). Using automated sanding to homogeneously break seed dormancy in black locust (*Robinia pseudoacacia* L., Fabaceae). Seed Science Research. https://doi.org/10.1017/S0960258517000150
